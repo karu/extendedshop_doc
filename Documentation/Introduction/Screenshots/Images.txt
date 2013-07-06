@@ -1,0 +1,21 @@
+﻿.. |img-1|      image:: ../../Images/manual_html_768607f1.jpg
+   :height: 213
+   :width: 557
+.. :align: left
+.. :border: 0
+.. :name: Immagine1
+
+.. |img-2|      image:: ../../Images/manual_html_m7a5edb79.png
+   :height: 535
+   :width: 634
+.. :align: left
+.. :border: 0
+.. :name: Immagine2
+
+.. |img-3|      image:: ../../Images/manual_html_4f246ebe.png
+   :height: 605
+   :width: 639
+.. :align: left
+.. :border: 0
+.. :name: Immagine3
+
