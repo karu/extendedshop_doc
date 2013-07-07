@@ -18,16 +18,28 @@
 EXT: Webformat Shop System
 ==========================
 
-Extension Key:  **extendedshop**
+watch out, this documentation is just in progress, please do relate to the original one!!!
+------------------------------------------------------------------------------------------
 
-Copyright 2000-2009, Mauro Lorenzutti - Webformat srl,
-<mauro.lorenzutti@webformat.com>
+:Classification: 
+  FE Extension
+:Extension Key:
+  **extendedshop**
 
-This document is published under the Open Content License
+:Copyright:
+  2000-2013
 
-available from http://www.opencontent.org/opl.shtml
+:Author:
+  Mauro Lorenzutti - Webformat srl
 
-The content of this document is related to TYPO3, watch out, this documentation is just in progress, please do relate on the original one!!!
+:Email:
+  mauro.lorenzutti@webformat.com
+
+:License:
+  This document is published under the Open Content License
+  available from http://www.opencontent.org/opl.shtml
+
+The content of this document is related to TYPO3, watch out, this documentation is just in progress, please do relate to the original one!!!
 
 \- a GNU/GPL CMS/Framework available from www.typo3.com
 
